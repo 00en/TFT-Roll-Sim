@@ -3,355 +3,355 @@
     "name": "Cassiopeia",
     "cost": 1,
     "traits": ["Noxus", "Shurima", "Invoker"], 
-    "icon": "/champions/Cassiopeia2.png",  
+    "icon": "./champions/Cassiopeia2.png",  
     "pool": 29
   },
   {
     "name": "Cho'Gath",
     "cost": 1,
     "traits": ["Void","Bruiser" ], 
-    "icon": "/champions/Chogath2.png", "pool": 29
+    "icon": "./champions/Chogath2.png", "pool": 29
   },
   {
     "name": "Irelia",
     "cost": 1,
     "traits": [ "Ionia","Challenger"], 
-    "icon": "/champions/Irelia2.png", "pool": 29
+    "icon": "./champions/Irelia2.png", "pool": 29
   },
   {
     "name": "Jhin",
     "cost": 1,
     "traits": [ "Ionia","Deadeye"], 
-    "icon": "/champions/Jhin2.png", "pool": 29
+    "icon": "./champions/Jhin2.png", "pool": 29
   },
   {
     "name": "Kayle",
     "cost": 1,
     "traits": [ "Demacia","Slayer"], 
-    "icon": "/champions/Kayle2.png", "pool": 29
+    "icon": "./champions/Kayle2.png", "pool": 29
   },
   {
     "name": "Malzahar",
     "cost": 1,
     "traits": [ "Void","Sorcerer"], 
-    "icon": "/champions/Malzahar2.png", "pool": 29
+    "icon": "./champions/Malzahar2.png", "pool": 29
   },
   {
     "name": "Maokai",
     "cost": 1,
     "traits": [ "Shadow Isles","Bastion"], 
-    "icon": "/champions/Maokai2.png", "pool": 29
+    "icon": "./champions/Maokai2.png", "pool": 29
   },
   {
     "name": "Orianna",
     "cost": 1,
     "traits": [ "Piltover","Sorcerer"], 
-    "icon": "/champions/Orianna2.png", "pool": 29
+    "icon": "./champions/Orianna2.png", "pool": 29
   },
   {
     "name": "Poppy",
     "cost": 1,
     "traits": [ "Yordle","Demacia", "Bastion"], 
-    "icon": "/champions/Poppy2.png", "pool": 29
+    "icon": "./champions/Poppy2.png", "pool": 29
   },
   {
     "name": "Renekton",
     "cost": 1,
     "traits": [ "Shurima","Bruiser"], 
-    "icon": "/champions/Renekton2.png", "pool": 29
+    "icon": "./champions/Renekton2.png", "pool": 29
   },
   {
     "name": "Samira",
     "cost": 1,
     "traits": [ "Noxus","Challenger"], 
-    "icon": "/champions/Samira2.png", "pool": 29
+    "icon": "./champions/Samira2.png", "pool": 29
   },
   {
     "name": "Tristana",
     "cost": 1,
     "traits": [ "Yordle","Gunner"],
-    "icon": "/champions/Tristana2.png", "pool": 29
+    "icon": "./champions/Tristana2.png", "pool": 29
   },
   {
     "name": "Viego",
     "cost": 1,
     "traits": [ "Shadow Isles","Rogue"], 
-    "icon": "/champions/Viego2.png", "pool": 29
+    "icon": "./champions/Viego2.png", "pool": 29
   },
   {
     "name": "Ashe",
     "cost": 2,
     "traits": [ "Freljord","Deadeye"], 
-    "icon": "/champions/Ashe2.png", "pool": 22
+    "icon": "./champions/Ashe2.png", "pool": 22
   },
   {
     "name": "Galio",
     "cost": 2,
     "traits": [ "Demacia","Invoker"], 
-    "icon": "/champions/Galio2.png", "pool": 22
+    "icon": "./champions/Galio2.png", "pool": 22
   },
   {
     "name": "Jinx",
     "cost": 2,
     "traits": [ "Zaun","Gunner"], 
-    "icon": "/champions/Jinx2.png", "pool": 22
+    "icon": "./champions/Jinx2.png", "pool": 22
   },
   {
     "name": "Kassadin",
     "cost": 2,
     "traits": [ "Void","Bastion"], 
-    "icon": "/champions/Kassadin2.png", "pool": 22
+    "icon": "./champions/Kassadin2.png", "pool": 22
   },
   {
     "name": "Kled",
     "cost": 2,
     "traits": [ "Noxus","Yordle", "Slayer"], 
-    "icon": "/champions/Kled2.png", "pool": 22
+    "icon": "./champions/Kled2.png", "pool": 22
   },
   {
     "name": "Sett",
     "cost": 2,
     "traits": [ "Ionia","Juggernaut"], 
-    "icon": "/champions/Sett2.png", "pool": 22
+    "icon": "./champions/Sett2.png", "pool": 22
   },
   {
     "name": "Soraka",
     "cost": 2,
     "traits": [ "Targon","Invoker"], 
-    "icon": "/champions/Soraka2.png", "pool": 22
+    "icon": "./champions/Soraka2.png", "pool": 22
   },
   {
     "name": "Swain",
     "cost": 2,
     "traits": [ "Noxus","Strategist", "Sorcerer"], 
-    "icon": "/champions/Swain2.png", "pool": 22
+    "icon": "./champions/Swain2.png", "pool": 22
   },
   {
     "name": "Taliyah",
     "cost": 2,
     "traits": [ "Shurima","Multicaster"], 
-    "icon": "/champions/Taliyah2.png", "pool": 22
+    "icon": "./champions/Taliyah2.png", "pool": 22
   },
   {
     "name": "Teemo",
     "cost": 2,
     "traits": [ "Yordle","Strategist", "Multicaster"], 
-    "icon": "/champions/Teemo2.png", "pool": 22
+    "icon": "./champions/Teemo2.png", "pool": 22
   },
   {
     "name": "Vi",
     "cost": 2,
     "traits": [ "Piltover","Bruiser"], 
-    "icon": "/champions/Vi2.png", "pool": 22
+    "icon": "./champions/Vi2.png", "pool": 22
   },
   {
     "name": "Warwick",
     "cost": 2,
     "traits": [ "Zaun","Juggernaut", "Challenger"], 
-    "icon": "/champions/Warwick2.png", "pool": 22
+    "icon": "./champions/Warwick2.png", "pool": 22
   },
   {
     "name": "Zed",
     "cost": 2,
     "traits": [ "Ionia","Rogue","Slayer"], 
-    "icon": "/champions/Zed2.png", "pool": 22
+    "icon": "./champions/Zed2.png", "pool": 22
   },
   {
     "name": "Akshan",
     "cost": 3,
     "traits": [ "Shurima","Deadeye"], 
-    "icon": "/champions/Akshan2.png", "pool": 18
+    "icon": "./champions/Akshan2.png", "pool": 18
   },
   {
     "name": "Darius",
     "cost": 3,
     "traits": [ "Noxus","Juggernaut"], 
-    "icon": "/champions/Darius2.png", "pool": 18
+    "icon": "./champions/Darius2.png", "pool": 18
   },
   {
     "name": "Ekko",
     "cost": 3,
     "traits": [ "Zaun","Piltover","Rogue"], 
-    "icon": "/champions/Ekko.png", "pool": 18
+    "icon": "./champions/Ekko.png", "pool": 18
   },
   {
     "name": "Garen",
     "cost": 3,
     "traits": [ "Demacia","Juggernaut"], 
-    "icon": "/champions/Garen2.png", "pool": 18
+    "icon": "./champions/Garen2.png", "pool": 18
   },
   {
     "name": "Jayce",
     "cost": 3,
     "traits": [ "Piltover","Gunner"], 
-    "icon": "/champions/Jayce2.png", "pool": 18
+    "icon": "./champions/Jayce2.png", "pool": 18
   },
   {
     "name": "Kalista",
     "cost": 3,
     "traits": [ "Shadow Isles","Challenger"], 
-    "icon": "/champions/Kalista2.png", "pool": 18
+    "icon": "./champions/Kalista2.png", "pool": 18
   },
   {
     "name": "Karma",
     "cost": 3,
     "traits": [ "Ionia","Invoker"], 
-    "icon": "/champions/Karma2.png", "pool": 18
+    "icon": "./champions/Karma2.png", "pool": 18
   },
   {
     "name": "Katarina",
     "cost": 3,
     "traits": [ "Noxus","Rogue"], 
-    "icon": "/champions/Katarina2.png", "pool": 18
+    "icon": "./champions/Katarina2.png", "pool": 18
   },
   {
     "name": "Lissandra",
     "cost": 3,
     "traits": [ "Freljord","Invoker"], 
-    "icon": "/champions/Lissandra2.png", "pool": 18
+    "icon": "./champions/Lissandra2.png", "pool": 18
   },
   {
     "name": "Rek'Sai",
     "cost": 3,
     "traits": [ "Void","Bruiser"], 
-    "icon": "/champions/RekSai2.png", "pool": 18
+    "icon": "./champions/RekSai2.png", "pool": 18
   },
   {
     "name": "Sona",
     "cost": 3,
     "traits": [ "Demacia","Multicaster"], 
-    "icon": "/champions/Sona2.png", "pool": 18
+    "icon": "./champions/Sona2.png", "pool": 18
   },
   {
     "name": "Taric",
     "cost": 3,
     "traits": [ "Targon","Bastion","Sorcerer"], 
-    "icon": "/champions/Taric2.png", "pool": 18
+    "icon": "./champions/Taric2.png", "pool": 18
   },
   {
     "name": "Vel'Koz",
     "cost": 3,
     "traits": [ "Void","Multicaster","Sorcerer"], 
-    "icon": "/champions/Velkoz2.png", "pool": 18
+    "icon": "./champions/Velkoz2.png", "pool": 18
   },
   {
     "name": "Aphelios",
     "cost": 4,
     "traits": [ "Targon","Deadeye"], 
-    "icon": "/champions/Aphelios2.png", "pool": 12
+    "icon": "./champions/Aphelios2.png", "pool": 12
   },
   {
     "name": "Azir",
     "cost": 4,
     "traits": [ "Shurima","Strategist"], 
-    "icon": "/champions/Azir2.png", "pool": 12
+    "icon": "./champions/Azir2.png", "pool": 12
   },
   {
     "name": "Gwen",
     "cost": 4,
     "traits": [ "Shadow Isles","Slayer"], 
-    "icon": "/champions/Gwen2.png", "pool": 12
+    "icon": "./champions/Gwen2.png", "pool": 12
   },
   {
     "name": "Jarvan IV",
     "cost": 4,
     "traits": [ "Demacia","Strategist"], 
-    "icon": "/champions/JarvanIV2.png", "pool": 12
+    "icon": "./champions/JarvanIV2.png", "pool": 12
   },
   {
     "name": "Kai'Sa",
     "cost": 4,
     "traits": [ "Void","Challenger"], 
-    "icon": "/champions/Kaisa2.png", "pool": 12
+    "icon": "./champions/Kaisa2.png", "pool": 12
   },
   {
     "name": "Lux",
     "cost": 4,
     "traits": [ "Demacia","Sorcerer"], 
-    "icon": "/champions/Lux2.png", "pool": 12
+    "icon": "./champions/Lux2.png", "pool": 12
   },
   {
     "name": "Nasus",
     "cost": 4,
     "traits": [ "Shurima","Juggernaut"], 
-    "icon": "/champions/Nasus2.png", "pool": 12
+    "icon": "./champions/Nasus2.png", "pool": 12
   },
   {
     "name": "Sejuani",
     "cost": 4,
     "traits": [ "Freljord","Bruiser"], 
-    "icon": "/champions/Sejuani2.png", "pool": 12
+    "icon": "./champions/Sejuani2.png", "pool": 12
   },
   {
     "name": "Shen",
     "cost": 4,
     "traits": [ "Ionia","Bastion","Invoker"], 
-    "icon": "/champions/Shen2.png", "pool": 12
+    "icon": "./champions/Shen2.png", "pool": 12
   },
   {
     "name": "Urgot",
     "cost": 4,
     "traits": [ "Zaun","Deadeye"], 
-    "icon": "/champions/Urgot2.png", "pool": 12
+    "icon": "./champions/Urgot2.png", "pool": 12
   },
   {
     "name": "Yasuo",
     "cost": 4,
     "traits": [ "Ionia","Challenger"], 
-    "icon": "/champions/Yasuo2.png", "pool": 12
+    "icon": "./champions/Yasuo2.png", "pool": 12
   },
   {
     "name": "Zeri",
     "cost": 4,
     "traits": [ "Zaun","Gunner"], 
-    "icon": "/champions/Zeri2.png", "pool": 12
+    "icon": "./champions/Zeri2.png", "pool": 12
   },
   {
     "name": "Aatrox",
     "cost": 5,
     "traits": [ "Darkin","Slayer","Juggernaut"], 
-    "icon": "/champions/Aatrox2.png", "pool": 10
+    "icon": "./champions/Aatrox2.png", "pool": 10
   },
   {
     "name": "Ahri",
     "cost": 5,
     "traits": [ "Ionia","Sorcerer"], 
-    "icon": "/champions/Ahri2.png", "pool": 10
+    "icon": "./champions/Ahri2.png", "pool": 10
   },
   {
     "name": "Belveth",
     "cost": 5,
     "traits": [ "Empress","Void"], 
-    "icon": "/champions/Belveth2.png", "pool": 10
+    "icon": "./champions/Belveth2.png", "pool": 10
   },
   {
     "name": "Heimerdinger",
     "cost": 5,
     "traits": [ "Piltover","Yordle","Technogenius"], 
-    "icon": "/champions/Heimerdinger2.png", "pool": 10
+    "icon": "./champions/Heimerdinger2.png", "pool": 10
   },
   {
     "name": "K'Sante",
     "cost": 5,
     "traits": [ "Shurima","Bastion"], 
-    "icon": "/champions/KSante2.png", "pool": 10
+    "icon": "./champions/KSante2.png", "pool": 10
   },
   {
     "name": "Ryze",
     "cost": 5,
     "traits": [ "Wanderer","Invoker"], 
-    "icon": "/champions/Ryze2.png", "pool": 10
+    "icon": "./champions/Ryze2.png", "pool": 10
   },
   {
     "name": "Senna",
     "cost": 5,
     "traits": [ "Shadow Isles","Gunner","Redeemer"], 
-    "icon": "/champions/Senna2.png", "pool": 10
+    "icon": "./champions/Senna2.png", "pool": 10
   },
   {
     "name": "Sion",
     "cost": 5,
     "traits": [ "Noxus","Bruiser"], 
-    "icon": "/champions/Sion2.png", "pool": 10
+    "icon": "./champions/Sion2.png", "pool": 10
   }
 ]
