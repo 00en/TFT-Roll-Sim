@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Darkin",
+    "icon": "/champions/darkin.png", 
+    "amount": [ 1 ]
+  },
+  {
+    "name": "Deadeye",
+    "icon": "/champions/deadeye.png", 
+    "amount": [2,4,6] 
+  },
+  {
+    "name": "Demacia",
+    "icon": "/champions/demacia.png", 
+    "amount": [3,5,7,9]
+  },
+  {
+    "name": "Empress",
+    "icon": "/champions/empress.png", 
+    "amount": [1]
+  },
+  {
+    "name": "Freljord",
+    "icon": "/champions/freljord.png", 
+    "amount": [2,3,4] 
+  },
+  {
+    "name": "Gunner",
+    "icon": "/champions/gunner.png", 
+    "amount": [2,4,6]
+  },
+  {
+    "name": "Ionia",
+    "icon": "/champions/ionia.png", 
+    "amount": [3,6,9]
+  },
+  {
+    "name": "Juggernaut",
+    "icon": "/champions/juggernaut.png", 
+    "amount": [2,4,6]
+  },
+  {
+    "name": "Multicaster",
+    "icon": "/champions/multicaster.png", 
+    "amount": [2,4]
+  },
+  {
+    "name": "Noxus",
+    "icon": "/champions/noxus.png", 
+    "amount": [3,6,9]
+  },
+  {
+    "name": "Piltover",
+    "icon": "/champions/piltover.png", 
+    "amount": [3,6]
+  },
+  {
+    "name": "Redeemer",
+    "icon": "/champions/redeemer.png", 
+    "amount": [1]
+  },
+  {
+    "name": "Shadow Isles",
+    "icon": "/champions/shadowisles.png", 
+    "amount": [2,4,6]
+  },
+  {
+    "name": "Void",
+    "icon": "/champions/void.png", 
+    "amount": [3,6,8]
+  },
+  {
+    "name": "Bruiser",
+    "icon": "/champions/bruiser.png", 
+    "amount": [2,4,6]
+  },
+  {
+    "name": "Bastion",
+    "icon": "/champions/bastion.png", 
+    "amount": [2,4,6,8]
+  },
+  {
+    "name": "Rogue",
+    "icon": "/champions/rogue.png", 
+    "amount": [2,4]
+  },
+  {
+    "name": "Slayer",
+    "icon": "/champions/slayer.png", 
+    "amount": [2,3,4,5,6]
+  },
+  {
+    "name": "Sorcerer",
+    "icon": "/champions/sorcerer.png", 
+    "amount": [2,4,6,8]
+  },
+  {
+    "name": "Shurima",
+    "icon": "/champions/shurima.png", 
+    "amount": [3,5,7,9]
+  },
+  {
+    "name": "Invoker",
+    "icon": "/champions/invoker.png", 
+    "amount": [2,4,6]
+  },
+  {
+    "name": "Targon",
+    "icon": "/champions/targon.png", 
+    "amount": [2,3,4]
+  },
+  {
+    "name": "Zaun",
+    "icon": "/champions/zaun.png", 
+    "amount": [2,4,6]
+  },
+  {
+    "name": "Challenger",
+    "icon": "/champions/challenger.png", 
+    "amount": [2,4,6,8]
+  },
+  {
+    "name": "Yordle",
+    "icon": "/champions/yordle.png", 
+    "amount": [3,6]
+  },
+  {
+    "name": "Strategist",
+    "icon": "/champions/strategist.png", 
+    "amount": [2,3,4,5]
+  },
+  {
+    "name": "Wanderer",
+    "icon": "/champions/wanderer.png", 
+    "amount": [1]
+  },
+  {
+    "name": "Technogenius",
+    "icon": "/champions/technogenius.png", 
+    "amount": [1]
+  }
+]
