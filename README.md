@@ -13,4 +13,7 @@ The app simulates the core rolling mechanics of TFT, including:
 - Showing active traits based on units placed on the board
 
 ## How to play 
-The intended use, is for a user to set a starting point including champions that exist on your board pre rolldown, gold and level. This is done by clicking the edit button, which opens a menu that shows all the settings you may want to change. After, you have the board to start from you should click the "Save Settings" button as it will allow you to get multiple attempts at rolling from the spot. From here you simply begin the roll down and can retry by using the refresh or restart buttons. 
+The intended use, is for a user to set a starting point including champions that exist on your board, gold and level. This is done by clicking the edit button, which opens a menu that shows all the settings you may want to change. After you have the board to start from, click the "Save Settings" button as it will allow you to get multiple attempts at rolling from this spot. From here you simply begin the roll down and can retry by using the refresh or restart buttons. 
+
+## Build details 
+The app is made with React.ts, intended only for use on a computer.
