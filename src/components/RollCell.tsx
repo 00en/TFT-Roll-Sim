@@ -42,7 +42,7 @@ export function RollCell({name, champion, cost, traits, handleClick, glow, disab
         <div style={{height: "100%", width: "100%", background: colourMap.get(cost), boxShadow: glow ? "0 0 60px 10px #fff" : "",
         border: "2px solid black", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center"}}> 
         <div style={{marginTop: "1%",height: "80%", width: "98%", border: "2px solid black",
-        backgroundImage: `url(${champion.replace('2','')})`, backgroundSize: "cover", backgroundRepeat: "no-repeat", backgroundPosition:"center", filter: !disabled ? "grayscale(100%)" : ""}}>
+        backgroundImage: `url(${champion})`, backgroundSize: "cover", backgroundRepeat: "no-repeat", backgroundPosition:"center", filter: !disabled ? "grayscale(100%)" : ""}}>
             <div style={{color: "white", display: "flex", justifyContent: "flex-end", flexDirection: "column", height: "95%"}}>
             {[...traits].map((trait,i ) =>
                 <div key={i} style={{display: "flex", marginLeft: "6px", marginTop: "5px", alignItems: "center"}}>

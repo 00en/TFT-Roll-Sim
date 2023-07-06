@@ -25,7 +25,7 @@ export function Board(){
 
     const [onBoard, setOnBoard] = useState<number>(0)
     const [upgradeUnits, setUpdgradeUnits] = useState<{champion: string; count: number}[]>([...Array(0)].fill({index: [0], champion: "", count: 0}));
-    const [hideSetup, setHideSetup] = useState<boolean>(false)
+    const [hideSetup, setHideSetup] = useState<boolean>(true)
     const [restartButton, setRestartButton] = useState<boolean>(false)
    
 
