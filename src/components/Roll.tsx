@@ -12,6 +12,7 @@ type RollProps = {
     thinkFast: boolean
     board: {index: number; champion: string; cost: number, star: number}[]
     pool : any
+    restart : boolean
 }
 
 let oddsMap = new Map<number, number[]>([
@@ -34,7 +35,7 @@ let colourMap = new Map<number, string>([
 ]);
 
 
-export function Roll({gold, upgradeUnits, level, handleGold, handleClick, thinkFast, board, pool}: RollProps){
+export function Roll({gold, upgradeUnits, level, handleGold, handleClick, thinkFast, board, pool, restart}: RollProps){
     const [array, setArray] = useState(oddsMap.get(level))
     const [roll, setRoll] = useState<{name: string, champion: string, cost: number, traits: string[]}[]>([...Array(0)])
 
@@ -45,7 +46,7 @@ export function Roll({gold, upgradeUnits, level, handleGold, handleClick, thinkF
 
     useEffect(()=> {
         handleRoll()
-    },[thinkFast, level])
+    },[restart])
 
     useEffect(() => {
         document.addEventListener('keydown', keyDownEvent)

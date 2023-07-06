@@ -26,6 +26,7 @@ export function Board(){
     const [onBoard, setOnBoard] = useState<number>(0)
     const [upgradeUnits, setUpdgradeUnits] = useState<{champion: string; count: number}[]>([...Array(0)].fill({index: [0], champion: "", count: 0}));
     const [hideSetup, setHideSetup] = useState<boolean>(false)
+    const [restartButton, setRestartButton] = useState<boolean>(false)
    
 
     //for inital board state (adds champ that is clicked)
@@ -184,6 +185,7 @@ export function Board(){
     const handleRestart = () => {
         setGold(savedGold)
         setCurrentUnits(savedUnits);
+        setRestartButton(!restartButton);
         data.forEach((d) => {
             poolMap.set(d.icon, d.pool);
         })
@@ -273,10 +275,10 @@ export function Board(){
                 handleSettingsChange={handleSettingsChange} savedThinkFast={savedThinkFast} savedLevel={savedLevel}></BoardSetup>
             </div> : undefined
             }
-            { !hideSetup ?       
+            
           <Roll gold={gold} handleClick={handleClick} thinkFast={savedThinkFast} board={currentUnits} pool={poolMap}
-            level={savedLevel} handleGold={handleGold} upgradeUnits={upgradeUnits}></Roll>
-        : undefined}
+            level={savedLevel} handleGold={handleGold} upgradeUnits={upgradeUnits} restart={restartButton}></Roll>
+        
         </Container>
         </>
     )

@@ -36,13 +36,13 @@ export function RollCell({name, champion, cost, traits, handleClick, glow, disab
         setArray()
     },[name])
     return(
-        <div id={name} key={name} style={{padding: "0.2%", position: "relative", width: "200px", height: "150px", pointerEvents: empty ? "none" : "auto", filter: !disabled ? "grayscale(100%)" : ""}} 
+        <div id={name} key={name} style={{padding: "0.2%", position: "relative", width: "200px", height: "150px", pointerEvents: empty ? "none" : "auto"}} 
         onClick={(e) => handleClick(e, cost) ? setEmpty(true) : undefined}>
         {!empty ? 
         <div style={{height: "100%", width: "100%", background: colourMap.get(cost), boxShadow: glow ? "0 0 60px 10px #fff" : "",
         border: "2px solid black", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center"}}> 
         <div style={{marginTop: "1%",height: "80%", width: "98%", border: "2px solid black",
-        backgroundImage: `url(${champion.replace('2','')})`, backgroundSize: "cover", backgroundRepeat: "no-repeat", backgroundPosition:"center"}}>
+        backgroundImage: `url(${champion.replace('2','')})`, backgroundSize: "cover", backgroundRepeat: "no-repeat", backgroundPosition:"center", filter: !disabled ? "grayscale(100%)" : ""}}>
             <div style={{color: "white", display: "flex", justifyContent: "flex-end", flexDirection: "column", height: "95%"}}>
             {[...traits].map((trait,i ) =>
                 <div key={i} style={{display: "flex", marginLeft: "6px", marginTop: "5px", alignItems: "center"}}>
